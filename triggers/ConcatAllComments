@@ -1,5 +1,5 @@
 /**
- * Trigger used to combine all comments into one custom field.
+ * Trigger used to combine all comments from the CampaignMember object into one custom field.
  * 
  * @author      Jessica Amposta
  * @since       6/28/19
